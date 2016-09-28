@@ -1,0 +1,11 @@
+body{
+	background-color: lightgreen;
+
+}
+
+.box{
+	margin-right: 25%;
+	margin-left: 25%;
+	border-radius: 20px;
+	margin-bottom: 2%;
+}
